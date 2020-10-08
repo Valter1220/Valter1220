@@ -1,0 +1,70 @@
+.jumbotron {
+    border: 2px solid black;
+    border-radius: 30px;
+    text-align: center;
+    padding: 0;
+    margin-bottom: 20px;
+    position: relative;
+}
+
+.caja-titulo {
+    height: 15vh;
+    line-height: 15vh;
+    background-color: purple;
+    color: white;
+    font-size: 2.5em;
+}
+
+.caja-jugador {
+    height: 65vh;
+    background-color: blue;
+    color: white;
+    padding-top: 30px;
+}
+
+.caja-accion {
+    height: 65vh;
+    background-color: rgb(197, 176, 59);
+    color: white;
+}
+
+.caja-computadora {
+    height: 65vh;
+    background-color: rgb(167, 45, 70);
+    color: white;
+    padding-top: 30px;
+}
+
+.caja-resultado {
+    height: 10vh;
+    line-height: 10vh;
+    background-color: #222;
+    color: white;
+    font-size: 2em;
+}
+
+button {
+    width: 90%;
+    height: 90%;
+    position: relative;
+    top: 20px;
+}
+
+select.form-control {
+    width: 90%;
+    margin: 0 auto;
+}
+
+img {
+    width: 90%;
+    border-radius: 25px;
+    position: relative;
+}
+
+#img-jugador {
+    top: 20px;
+}
+
+#img-computadora {
+    top: 25px;
+}
