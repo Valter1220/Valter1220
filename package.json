@@ -1,0 +1,19 @@
+{
+  "name": "otro-proyecto",
+  "version": "1.0.0",
+  "description": "proyecto de Nodejs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Valter1220/Valter1220.git"
+  },
+  "author": "Valter Izzo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Valter1220/Valter1220/issues"
+  },
+  "homepage": "https://github.com/Valter1220/Valter1220#readme"
+}
